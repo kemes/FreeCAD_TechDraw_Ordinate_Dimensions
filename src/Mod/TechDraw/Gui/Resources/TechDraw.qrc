@@ -62,6 +62,8 @@
         <file>icons/TechDraw_ExtensionCreateObliqueCoordDimension.svg</file>
         <file>icons/TechDraw_ExtensionCreateHorizChamferDimension.svg</file>
         <file>icons/TechDraw_ExtensionCreateVertChamferDimension.svg</file>
+        <file>icons/TechDraw_ExtensionCreateHorizOrdinatedDimension.svg</file>
+        <file>icons/TechDraw_ExtensionCreateVertOrdinatedDimension.svg</file>
         <file>icons/TechDraw_ExtensionCreateLengthArc.svg</file>
         <file>icons/TechDraw_ExtensionIncreaseDecimal.svg</file>
         <file>icons/TechDraw_ExtensionDecreaseDecimal.svg</file>
